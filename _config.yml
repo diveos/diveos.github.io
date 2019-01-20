@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: "Dive OS"
+description: "An open-source operating system."
+logo: "https://avatars1.githubusercontent.com/u/8846235?s=460&v=4"
+show_downloads: "true"
